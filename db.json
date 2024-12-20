@@ -22,13 +22,13 @@
   "users": [
 	{
 		"username": "quan"
-		"password":"123456";
-		"fullname":"Nguyen Anh Quan"
+		"password":"123456",
+		"fullname":"Nguyen Anh Quan",
 	},
 	{
 		"username": "A"
-		"password":"123456";
-		"fullname":"Nguyen A"
+		"password":"123456",
+		"fullname":"Nguyen A",
 	}
 	  
     
